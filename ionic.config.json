@@ -1,0 +1,7 @@
+{
+  "name": "iab-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
